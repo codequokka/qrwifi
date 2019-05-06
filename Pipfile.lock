@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e74ddce84cdf77e737c52db3a6d6d8ada1d6aa2c620dddec40af893242e583a1"
+            "sha256": "ef1bd48a4a26a9ec900c7af1c6422d8454ba1617f9b654ad5930b16c2eba50c5"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -136,6 +136,10 @@
             ],
             "index": "pypi",
             "version": "==1.2.1"
+        },
+        "qrwifi": {
+            "editable": true,
+            "path": "."
         },
         "regex": {
             "hashes": [

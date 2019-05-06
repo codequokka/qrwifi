@@ -1,6 +1,9 @@
 import click
+import click_completion
 
 from .functions import wifi_qr
+
+click_completion.init()
 
 
 @click.group()

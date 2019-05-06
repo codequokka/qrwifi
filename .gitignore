@@ -1,0 +1,8 @@
+# Python
+.venv/
+
+# Vscode
+.vscode/
+
+# PYcharm
+.idea/
